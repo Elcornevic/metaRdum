@@ -1,0 +1,11 @@
+
+Call:
+anosim(x = uwUF.dist, grouping = metadata$Group, permutations = 1000) 
+Dissimilarity: 
+
+ANOSIM statistic R: 0.144 
+      Significance: 0.14486 
+
+Permutation: free
+Number of permutations: 1000
+

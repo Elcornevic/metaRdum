@@ -1,0 +1,11 @@
+
+Call:
+anosim(x = BC.dist, grouping = metadata$Group, permutations = 1000) 
+Dissimilarity: bray 
+
+ANOSIM statistic R: 0.172 
+      Significance: 0.12587 
+
+Permutation: free
+Number of permutations: 1000
+

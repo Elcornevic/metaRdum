@@ -1,0 +1,10 @@
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Permutation: free
+Number of permutations: 1000
+
+adonis2(formula = wUF.dist ~ Group, data = metadata, permutations = 1000)
+         Df SumOfSqs      R2      F Pr(>F)
+Group     1 0.006984 0.13913 1.2929 0.2707
+Residual  8 0.043212 0.86087              
+Total     9 0.050196 1.00000              

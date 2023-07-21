@@ -1,0 +1,2 @@
+                   pairs Df SumsOfSqs  F.Model        R2 p.value p.adjusted sig
+1 ANDINA-AL vs ANDINA-AY  1 0.3917207 1.186065 0.1291157   0.066      0.066    

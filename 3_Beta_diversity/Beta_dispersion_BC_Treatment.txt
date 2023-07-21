@@ -1,0 +1,15 @@
+
+Permutation test for homogeneity of multivariate dispersions
+Permutation: free
+Number of permutations: 1000
+
+Response: Distances
+          Df    Sum Sq    Mean Sq      F N.Perm Pr(>F)
+Groups     1 0.0000845 0.00008451 0.0462   1000 0.8242
+Residuals  8 0.0146272 0.00182840                     
+
+Pairwise comparisons:
+(Observed p-value below diagonal, permuted p-value above diagonal)
+          ANDINA-AL ANDINA-AY
+ANDINA-AL              0.8122
+ANDINA-AY   0.83516          
