@@ -1,0 +1,9 @@
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  richness$Shannon and metadata$Group 
+
+          ANDINA-AL
+ANDINA-AY 1        
+
+P value adjustment method: bonferroni 

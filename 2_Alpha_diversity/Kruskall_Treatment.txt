@@ -1,0 +1,6 @@
+
+	Kruskal-Wallis rank sum test
+
+data:  richness$Shannon by Group
+Kruskal-Wallis chi-squared = 0.010909, df = 1, p-value = 0.9168
+

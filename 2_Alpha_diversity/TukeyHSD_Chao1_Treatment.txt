@@ -1,0 +1,9 @@
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = richness$Chao1 ~ Group, data = metadata)
+
+$Group
+                    diff       lwr      upr     p adj
+ANDINA-AY-ANDINA-AL 37.8 -74.46949 150.0695 0.4598449
+

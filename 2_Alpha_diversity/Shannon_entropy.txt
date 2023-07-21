@@ -1,0 +1,11 @@
+            ID shannon_entropy
+1  AND1_AL_S67        7.443674
+2  AND1_AY_S72        6.945584
+3  AND2_AL_S68        6.939796
+4  AND2_AY_S73        7.992023
+5  AND3_AL_S69        7.340186
+6  AND3_AY_S74        7.142244
+7  AND4_AL_S70        7.165844
+8  AND4_AY_S75        7.686498
+9  AND5_AL_S71        6.163739
+10 AND5_AY_S76        6.747279
